@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "source": "1NTd_P7PBFO9UsstAOd9GZQkSVU-PfWoRyxOoUd-th5Q",
+  "format": "html",
+  "prefix": "../",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-05-17T13:49:56Z",
+  "id": "kubernetes_the_hard_way",
+  "duration": 0,
+  "title": "Kubernetes The Hard Way",
+  "author": "Spring_MT",
+  "summary": "Kubernetes The Hard Wayを通してKubernetesの仕組みを知りましょう",
+  "theme": "infra",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "infra"
+  ],
+  "tags": [
+    "kubernetes"
+  ],
+  "url": "kubernetes_the_hard_way"
+}
